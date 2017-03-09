@@ -1,0 +1,21 @@
+#main-header nav {
+    display: inline-block;
+    width: 80%;
+    text-align: center;
+}
+
+#main-header nav ul li {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+}
+
+#main-header nav ul li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+}
+
+#main-header nav ul li a:hover {
+    color: orange;
+}
